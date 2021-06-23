@@ -1,0 +1,15 @@
+
+*.json
+*.dll
+*.exe
+*.pdb
+*.xml
+*.user
+Elo/Elo/obj/Debug/net5.0-windows/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Elo/Elo/obj/Debug/net5.0-windows/Elo.AssemblyInfo.cs
+*.cache
+*.txt
+*.editorconfig
+*.props
+*.targets
+*.info
